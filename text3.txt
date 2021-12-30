@@ -1,1 +1,2 @@
-This is the last file and we want to test git options
+This is the last file and we want to test github
+The file is being edited
